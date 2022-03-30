@@ -1,3 +1,0 @@
-# Structural Diagrams
-
-## UML Diagrams
