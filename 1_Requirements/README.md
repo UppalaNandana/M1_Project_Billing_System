@@ -1,9 +1,9 @@
 # Objectives 
 
-*Maintains a detailed record of the customers such as a number of customers,amount,total orders.
-*Reduce human errors and automatic calculations are done without errors.
-*Can generate an invoice and detailed report on customer payments.
-*The automatically generated reports are flexible for the clients to pay to the employees.
+##### *Maintains a detailed record of the customers such as a number of customers,amount,total orders.
+##### *Reduce human errors and automatic calculations are done without errors.
+##### *Can generate an invoice and detailed report on customer payments.
+##### *The automatically generated reports are flexible for the clients to pay to the employees.
 
 # Existing System:
 
@@ -12,11 +12,11 @@ But if he makes any mistake in data entry of calculating the hours then a wrong 
 
 The client has identified these problems:
 
-*Generation of the Invoice is very slow and takes a long time to remit to the employee.
-*The generation reports took even longer then invoice.
-*Delay in all the reports due to manual work and there are possible human errors which may cost the client.
-*Manual work is expensive
-*Data loss can happen easily
+##### *Generation of the Invoice is very slow and takes a long time to remit to the employee.
+##### *The generation reports took even longer then invoice.
+##### *Delay in all the reports due to manual work and there are possible human errors which may cost the client.
+##### *Manual work is expensive
+##### *Data loss can happen easily
 
 # Requirements
 
@@ -35,23 +35,23 @@ The user will get the amount of all items by adding discount,GST,CGST.
 
 #### Generate Invoice
 
-*Create an invoice based on the following criteria
+##### *Create an invoice based on the following criteria
 
  Input customers details like name,food item he want to order,Qantity of items and the manager will give invoice to the customer.
  
  ## Non-Functional Requirements 
 
-*Usability
+##### *Usability
   The system must be easy to use so that hotel team can easily perform any actions.
-*Availability
+##### *Availability
   The system must be highly reliable since, if the system is not available, the manager can’t easily able to create an invoice.
   The system should be available 99.999% of the office open hours.
-*Performance
+##### *Performance
   All the actions should be performed in accurate time.
   All the imports should be performed in accurate time.
   Generation of Invoice should be performed inaccurate time.
   Generation of reports should be performed inaccurate time.
-*Supportability
+##### *Supportability
    The system should be developed in a common technology that the Accountants in the Consulting company should be able to use to make upgrades to the system
    The system should be documented and coded in a way that a developer that was not originally on the development team could determine how to make updates.
  
