@@ -8,32 +8,32 @@
 # Existing System:
 
 In the existing system, we have employees working for different clients on different projects. The manager calculates all the details of customer. 
-But if he makes any mistake in data entry of calculating the hours then a wrong report about payment is sent to the client and it may over cost the client. The client again has to recheck everything and sent it back to the consultancy for re-evaluation or sometimes the employee does not get the correct pay. This helps to generate an invoice which is done manually.
-
-The client has identified these problems:
-
+And the details of customer is stores in the database and the invoice is given to the customer.
+### Disadvantages:
 ##### *Generation of the Invoice is very slow and takes a long time to remit to the employee.
 ##### *The generation reports took even longer then invoice.
 ##### *Delay in all the reports due to manual work and there are possible human errors which may cost the client.
 ##### *Manual work is expensive
 ##### *Data loss can happen easily
 
- # 4 W and 1 H
- 
- ### What     :     Billing System in Restaurant.
- ### When     :     Need to generates Invoice to the customer.
- ### Who      :     Manager generates Invoice of Customer.
- ### Where    :     Invoices are Stored in the Database.
- ### How      :     Manager need to collect the data from customer.
+ # 4'W 1-H
+
+ ####     What     :    Billing System in Restaurant.
+ ####     When     :    Need to generates Invoice to the customer.
+ ####     Who      :    Manager generates Invoice of Customer.
+ ####     Where    :    Invoices are Stored in the Database.
+ ####     How      :    Manager need to collect the data from customer.
  
 # SWOT Analysis
 
-| Strengths | Weakness | 
+| Strengths | Weakness |
+| :---: | :---: |
 | Avaliability| Need Large Storage|
 | Less Human Effort | Cost Effective for small ones |
 | Generate Accurate cost and Time | Damage of System |
 
 | Oppurtunities | Threads |
+| :---: | :---: |
 | Can make online booking | Data can be Stolen if password is known |
 | Can provide offers to regular customers | Should keep the data upto data |
 | Feedback and Reviews of customers | |
