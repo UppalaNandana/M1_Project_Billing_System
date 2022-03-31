@@ -57,6 +57,12 @@ The user will get the amount of all items by adding discount,GST,CGST.
  
 # SWOT Analysis
 
-![image](https://user-images.githubusercontent.com/101818853/161116707-02739a9d-ed8c-4b9c-a2c9-73d9b083a205.png)
+|Strengths|Weakness|
+| :---: | :---: | :---: |
+|
+|
+|
+|
+
 
 
