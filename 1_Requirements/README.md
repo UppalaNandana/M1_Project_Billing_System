@@ -55,5 +55,8 @@ The user will get the amount of all items by adding discount,GST,CGST.
    The system should be developed in a common technology that the Accountants in the Consulting company should be able to use to make upgrades to the system
    The system should be documented and coded in a way that a developer that was not originally on the development team could determine how to make updates.
  
+# SWOT Analysis
+
+![image](https://user-images.githubusercontent.com/101818853/161116707-02739a9d-ed8c-4b9c-a2c9-73d9b083a205.png)
 
 
