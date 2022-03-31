@@ -18,6 +18,26 @@ The client has identified these problems:
 ##### *Manual work is expensive
 ##### *Data loss can happen easily
 
+ # 4 W and 1 H
+ 
+ ### What     :     Billing System in Restaurant.
+ ### When     :     Need to generates Invoice to the customer.
+ ### Who      :     Manager generates Invoice of Customer.
+ ### Where    :     Invoices are Stored in the Database.
+ ### How      :     Manager need to collect the data from customer.
+ 
+# SWOT Analysis
+
+| Strengths | Weakness | 
+| Avaliability| Need Large Storage|
+| Less Human Effort | Cost Effective for small ones |
+| Generate Accurate cost and Time | Damage of System |
+
+| Oppurtunities | Threads |
+| Can make online booking | Data can be Stolen if password is known |
+| Can provide offers to regular customers | Should keep the data upto data |
+| Feedback and Reviews of customers | |
+
 # Requirements
 
 ## Functional Requirements:
@@ -55,19 +75,6 @@ The user will get the amount of all items by adding discount,GST,CGST.
    The system should be developed in a common technology that the Accountants in the Consulting company should be able to use to make upgrades to the system
    The system should be documented and coded in a way that a developer that was not originally on the development team could determine how to make updates.
  
-# SWOT Analysis
-
-| Strengths | Weakness |
-| --- | --- | 
-| Avaliability| Need Large Storage|
-| Less Human Effort | Cost Effective for small ones |
-| Generate Accurate cost and Time | Damage of System |
-| --- | --- |
-| Oppurtunities | Threads |
-| --- | --- |
-|
-|
-|
 
 
 
