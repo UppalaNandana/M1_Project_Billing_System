@@ -57,9 +57,14 @@ The user will get the amount of all items by adding discount,GST,CGST.
  
 # SWOT Analysis
 
-|Strengths|Weakness|
-| :---: | :---: | :---: |
-|
+| Strengths | Weakness |
+| --- | --- | 
+| Avaliability| Need Large Storage|
+| Less Human Effort | Cost Effective for small ones |
+| Generate Accurate cost and Time | Damage of System |
+| --- | --- |
+| Oppurtunities | Threads |
+| --- | --- |
 |
 |
 |
