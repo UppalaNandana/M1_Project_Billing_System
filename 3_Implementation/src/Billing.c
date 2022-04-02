@@ -72,7 +72,7 @@ int main()
             }
             BillFooter(total);
             printf("Do you want to save the Bill[y/n]:");
-            scanf("%s", BillSave);
+            scanf("%c", BillSave);
             if (BillSave == 'y')
             {
                 fp = fopen("RestaurantBill.dat", "a+");
@@ -142,7 +142,7 @@ int main()
             break;
         }
         printf("\nDo you want to continue Billing[y/n]:");
-        scanf("%s", contFlag);
+        scanf("%c", &contFlag);
     }
     return 0;
 }
