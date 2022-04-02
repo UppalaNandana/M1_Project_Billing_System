@@ -7,6 +7,6 @@ Which saves a lot of time and human effort.
 
 #  Badges
 
-Codacy: ![image](https://user-images.githubusercontent.com/101818853/161396935-3775d6e5-bb9e-4e1a-90e3-a1bda5f5e1af.png)
+Codacy: https://app.codacy.com/gh/UppalaNandana/M1_Project_Billing_System/dashboard
 
 Codiga: ![image](https://user-images.githubusercontent.com/101818853/161396736-f30dd3d5-9152-4055-b2d3-865f85659647.png)
