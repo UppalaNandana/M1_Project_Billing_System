@@ -9,4 +9,5 @@ Which saves a lot of time and human effort.
 
 Codacy: https://app.codacy.com/organizations/gh/UppalaNandana/dashboard
 
-Codiga: ![image](https://user-images.githubusercontent.com/101818853/161396736-f30dd3d5-9152-4055-b2d3-865f85659647.png)
+Codiga - Static Analysis
+https://app.codiga.io/public/user/github/UppalaNandana
