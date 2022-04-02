@@ -7,4 +7,4 @@ Which saves a lot of time and human effort.
 
 #  Badges
 
-Codiga:https://api.codiga.io/project/32433/score/svg
+Codiga: https://api.codiga.io/project/32433/score/svg
