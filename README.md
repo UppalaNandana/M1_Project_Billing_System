@@ -11,3 +11,4 @@ Codacy: https://app.codacy.com/organizations/gh/UppalaNandana/dashboard
 
 Codiga - Static Analysis
 https://app.codiga.io/public/user/github/UppalaNandana
+![UppalaNandana](https://user-images.githubusercontent.com/101818853/161397956-36173ca9-7b4a-42d5-98a6-210884039800.svg)
