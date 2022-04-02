@@ -10,6 +10,7 @@
 In the existing system, we have employees working for different clients on different projects. The manager calculates all the details of customer. 
 And the details of customer is stores in the database and the invoice is given to the customer.
 #### Disadvantages
+
 ##### *Generation of the Invoice is very slow and takes a long time to remit to the employee
 ##### *The generation reports took even longer then invoice
 ##### *Delay in all the reports due to manual work and there are possible human errors which may cost the client
