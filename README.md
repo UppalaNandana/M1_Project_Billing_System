@@ -4,3 +4,7 @@ A Restaurant which focuses on how best they can use technology in achieving thei
 
 So for that reason there is a set up called Billing System which can take the customers details and provides the invoice and which also can be stored in the database.
 Which saves a lot of time and human effort.
+
+#  Badges
+
+Codiga:https://api.codiga.io/project/32433/score/svg
