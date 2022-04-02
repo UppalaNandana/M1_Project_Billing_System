@@ -42,34 +42,34 @@ Disadvantages:
 
 # Requirements
 
-# Functional Requirements
+## Functional Requirements
 
-#### User data should be fed into the system
+User data should be fed into the system:-
 Stores the User data in a file
 
-#### The User can select the number items
+The User can select the number items:-
 Users are able to select the items for order, which is they are doing with this system.
 
-####  User can give the quantity of items
+User can give the quantity of items:-
 the user should give the number of items shold be ordered.
 
-#### Total Amount
+Total Amount:-
 The user will get the amount of all items by adding discount,GST,CGST.
 
-#### Generate Invoice
+Generate Invoice:-
 
-##### *Create an invoice based on the following criteria
+##### * Create an invoice based on the following criteria
 
  Input customers details like name,food item he want to order,Qantity of items and the manager will give invoice to the customer.
  
  ## Non-Functional Requirements 
 
-##### *Usability
+##### * Usability
   The system must be easy to use so that hotel team can easily perform any actions.
-##### *Availability
+##### * Availability
   The system must be highly reliable since, if the system is not available, the manager can’t easily able to create an invoice.
   The system should be available 99.999% of the office open hours.
-##### *Performance
+##### * Performance
   All the actions should be performed in accurate time.
   All the imports should be performed in accurate time.
   Generation of Invoice should be performed inaccurate time.
