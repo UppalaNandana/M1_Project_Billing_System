@@ -122,7 +122,9 @@ int main()
                 else
                     printf("Error saving");
                 fclose(fp);
-            }}
+            }
+          }
+        }
             break;
 
         case 2:
