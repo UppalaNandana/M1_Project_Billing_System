@@ -22,4 +22,4 @@ Valgrind:
 
 
 cpp check:
-[![Valgrind](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml)
+[![cppcheck-action](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/c-cpp.yml)
