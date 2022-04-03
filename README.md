@@ -23,3 +23,6 @@ Valgrind:
 
 cpp check:
 [![cppcheck-action](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/c-cpp.yml)
+
+Codacy Security Plan:
+[![Codacy Security Scan](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/codacy.yml/badge.svg)](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/codacy.yml)
