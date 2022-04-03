@@ -8,9 +8,7 @@ Which saves a lot of time and human effort.
 #  Badges
 
 Codacy - Static Analysis
-<a href="https://app.codacy.com/gh/UppalaNandana/M1_Project_Billing_System/dashboard">
-  <img src="https://api.codiga.io/project/32518/status/svg">
- </a>
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3978a72c0cf54c718d731d895484b35f)](https://www.codacy.com/gh/UppalaNandana/M1_Project_Billing_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=UppalaNandana/M1_Project_Billing_System&amp;utm_campaign=Badge_Grade)
 
 Codiga - Static Analysis
 
