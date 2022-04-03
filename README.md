@@ -16,3 +16,6 @@ Codiga - Static Analysis
    <a href="https://app.codiga.io/public/user/github/UppalaNandana">
    <img src="https://api.codiga.io/public/badge/user/github/UppalaNandana?style=light" alt="codiga badge" />
 </a>
+
+Valgrind:
+[![Valgrind](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml)
