@@ -13,6 +13,6 @@ https://app.codacy.com/organizations/gh/UppalaNandana/dashboard
 Codiga - Static Analysis
 <a href="https://app.codiga.io/public/project/32509/M1_Project_Billing_System-/dashboard">
   
-   <img>https://app.codiga.io/public/user/github/UppalaNandana
-![UppalaNandana](https://user-images.githubusercontent.com/101818853/161397956-36173ca9-7b4a-42d5-98a6-210884039800.svg)</img>
+   <a href="https://app.codiga.io/public/user/github/UppalaNandana">
+   <img src="https://api.codiga.io/public/badge/user/github/UppalaNandana?style=light" alt="codiga badge" />
 </a>
