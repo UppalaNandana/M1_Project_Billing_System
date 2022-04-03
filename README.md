@@ -9,7 +9,7 @@ Which saves a lot of time and human effort.
 
 Codacy - Static Analysis
 <a href="https://app.codacy.com/gh/UppalaNandana/M1_Project_Billing_System/dashboard">
-  <img src="https://api.codiga.io/project/32510/status/svg">
+  <img src="https://api.codiga.io/project/32518/status/svg">
  </a>
 
 Codiga - Static Analysis
