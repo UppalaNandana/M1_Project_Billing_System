@@ -7,7 +7,7 @@ Which saves a lot of time and human effort.
 
 #  Badges
 
-Codacy: https://app.codacy.com/organizations/gh/UppalaNandana/dashboard
+https://app.codacy.com/organizations/gh/UppalaNandana/dashboard
 
 Codiga - Static Analysis
 https://app.codiga.io/public/user/github/UppalaNandana
