@@ -19,3 +19,7 @@ Codiga - Static Analysis
 
 Valgrind:
 [![Valgrind](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml)
+
+
+cpp check:
+[![Valgrind](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/UppalaNandana/M1_Project_Billing_System/actions/workflows/Valgrind.yml)
